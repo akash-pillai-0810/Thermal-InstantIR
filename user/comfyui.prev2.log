@@ -1,0 +1,187 @@
+## ComfyUI-Manager: installing dependencies done.
+[2025-05-02 16:41:33.918] ** ComfyUI startup time: 2025-05-02 16:41:33.918
+[2025-05-02 16:41:33.918] ** Platform: Darwin
+[2025-05-02 16:41:33.918] ** Python version: 3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 10:07:17) [Clang 14.0.6 ]
+[2025-05-02 16:41:33.918] ** Python executable: /opt/anaconda3/bin/python
+[2025-05-02 16:41:33.918] ** ComfyUI Path: /Users/akashpillai/AI/ComfyUI
+[2025-05-02 16:41:33.918] ** ComfyUI Base Folder Path: /Users/akashpillai/AI/ComfyUI
+[2025-05-02 16:41:33.918] ** User directory: /Users/akashpillai/AI/ComfyUI/user
+[2025-05-02 16:41:33.918] ** ComfyUI-Manager config path: /Users/akashpillai/AI/ComfyUI/user/default/ComfyUI-Manager/config.ini
+[2025-05-02 16:41:33.918] ** Log path: /Users/akashpillai/AI/ComfyUI/user/comfyui.log
+[ComfyUI-Manager] 'numpy' dependency were fixed
+[2025-05-02 16:41:36.225] 
+Prestartup times for custom nodes:
+[2025-05-02 16:41:36.225]    4.0 seconds: /Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI-Manager
+[2025-05-02 16:41:36.225] 
+[2025-05-02 16:41:41.694] Checkpoint files will always be loaded safely.
+[2025-05-02 16:41:41.906] Total VRAM 16384 MB, total RAM 16384 MB
+[2025-05-02 16:41:41.906] pytorch version: 2.7.0
+[2025-05-02 16:41:41.907] Mac Version (15, 4, 1)
+[2025-05-02 16:41:41.907] Set vram state to: SHARED
+[2025-05-02 16:41:41.907] Device: mps
+[2025-05-02 16:41:51.492] Using sub quadratic optimization for attention, if you have memory or speed issues try using: --use-split-cross-attention
+[2025-05-02 16:42:02.056] Python version: 3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 10:07:17) [Clang 14.0.6 ]
+[2025-05-02 16:42:02.056] ComfyUI version: 0.3.30
+[2025-05-02 16:42:02.058] ComfyUI frontend version: 1.18.6
+[2025-05-02 16:42:02.058] [Prompt Server] web root: /opt/anaconda3/lib/python3.12/site-packages/comfyui_frontend_package/static
+[2025-05-02 16:42:03.872] ### Loading: ComfyUI-Manager (V3.31.13)
+[2025-05-02 16:42:03.872] [ComfyUI-Manager] network_mode: public
+[2025-05-02 16:42:03.953] ### ComfyUI Version: v0.3.30-37-g065d855f | Released on '2025-05-02'
+[2025-05-02 16:42:10.909] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2025-05-02 16:42:10.919] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2025-05-02 16:42:10.937] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2025-05-02 16:42:12.395] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2025-05-02 16:42:12.418] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2025-05-02 16:42:14.251] NumExpr defaulting to 8 threads.
+[2025-05-02 16:42:14.982] FETCH ComfyRegistry Data: 5/83
+[2025-05-02 16:42:15.345] 
+Import times for custom nodes:
+[2025-05-02 16:42:15.345]    0.0 seconds: /Users/akashpillai/AI/ComfyUI/custom_nodes/websocket_image_save.py
+[2025-05-02 16:42:15.345]    0.1 seconds: /Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI-Manager
+[2025-05-02 16:42:15.345]   11.4 seconds: /Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper
+[2025-05-02 16:42:15.346] 
+[2025-05-02 16:42:15.349] Starting server
+
+[2025-05-02 16:42:15.349] To see the GUI go to: http://127.0.0.1:8188
+[2025-05-02 16:42:17.947] FETCH ComfyRegistry Data: 10/83
+[2025-05-02 16:42:20.895] FETCH ComfyRegistry Data: 15/83
+[2025-05-02 16:42:23.865] FETCH ComfyRegistry Data: 20/83
+[2025-05-02 16:42:34.010] FETCH ComfyRegistry Data: 25/83
+[2025-05-02 16:42:36.990] FETCH ComfyRegistry Data: 30/83
+[2025-05-02 16:42:39.951] FETCH ComfyRegistry Data: 35/83
+[2025-05-02 16:42:42.911] FETCH ComfyRegistry Data: 40/83
+[2025-05-02 16:42:45.870] FETCH ComfyRegistry Data: 45/83
+[2025-05-02 16:42:48.821] FETCH ComfyRegistry Data: 50/83
+[2025-05-02 16:42:51.779] FETCH ComfyRegistry Data: 55/83
+[2025-05-02 16:42:54.721] FETCH ComfyRegistry Data: 60/83
+[2025-05-02 16:42:58.020] FETCH ComfyRegistry Data: 65/83
+[2025-05-02 16:43:00.988] FETCH ComfyRegistry Data: 70/83
+[2025-05-02 16:43:03.942] FETCH ComfyRegistry Data: 75/83
+[2025-05-02 16:43:06.898] FETCH ComfyRegistry Data: 80/83
+[2025-05-02 16:43:09.182] FETCH ComfyRegistry Data [DONE]
+[2025-05-02 16:43:09.266] [ComfyUI-Manager] default cache updated: https://api.comfy.org/nodes
+[2025-05-02 16:43:09.270] FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json [DONE]
+[2025-05-02 16:43:09.367] [ComfyUI-Manager] All startup tasks have been completed.
+[2025-05-02 16:43:18.110] FETCH DATA from: /Users/akashpillai/AI/ComfyUI/user/default/ComfyUI-Manager/cache/4245046894_model-list.json [DONE]
+[2025-05-02 16:44:07.950] FETCH DATA from: /Users/akashpillai/AI/ComfyUI/user/default/ComfyUI-Manager/cache/4245046894_model-list.json [DONE]
+[2025-05-02 16:44:07.959] Install model 'LCM LoRA SDXL' from 'https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors' into '/Users/akashpillai/AI/ComfyUI/models/loras/SDXL/lcm/pytorch_lora_weights.safetensors'
+[2025-05-02 16:44:30.642] 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████▉| 394M/394M [00:21<00:00, 21.2MB/s]100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 394M/394M [00:21<00:00, 18.0MB/s]
+[2025-05-02 16:44:30.652] 
+[ComfyUI-Manager] Queued works are completed.
+{'install-model': 1}
+[2025-05-02 16:44:30.653] 
+After restarting ComfyUI, please refresh the browser.
+[2025-05-02 16:45:44.171] got prompt
+[2025-05-02 16:45:45.243] Loading pipeline components...: 100%|███████████████████████████████████████████████████████████████████████████| 7/7 [00:00<00:00,  9.88it/s]
+[2025-05-02 16:45:54.906] Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+[2025-05-02 16:46:05.620] use lora alpha 1
+[2025-05-02 16:46:05.806] /opt/anaconda3/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:167: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+[2025-05-02 16:46:07.064] use lcm lora alpha 8.0
+[2025-05-02 16:46:07.071] Loading checkpoint...
+[2025-05-02 16:46:21.282] loading checkpoint done.
+[2025-05-02 16:47:04.757] Start infer 1 images.
+[2025-05-02 16:47:04.939] The config attributes {'interpolation_type': 'linear', 'skip_prk_steps': True, 'use_karras_sigmas': False} were passed to LCMSingleStepScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
+[2025-05-02 16:47:05.686] creative_restoration using previewer lora
+[2025-05-02 16:47:06.186] /opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py:489: FutureWarning: torch.cuda.reset_max_memory_allocated now calls torch.cuda.reset_peak_memory_stats, which resets /all/ peak memory stats.
+  warnings.warn(
+[2025-05-02 16:47:06.331] !!! Exception during processing !!! module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+[2025-05-02 16:47:06.405] Traceback (most recent call last):
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 347, in execute
+    output_data, output_ui, has_subgraph = get_output_data(obj, input_data_all, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 222, in get_output_data
+    return_values = _map_node_over_list(obj, input_data_all, obj.FUNCTION, allow_interrupt=True, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 194, in _map_node_over_list
+    process_inputs(input_dict, i)
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 183, in process_inputs
+    results.append(getattr(obj, func)(**inputs))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/InstantIR_node.py", line 143, in main
+    ouput_img = instantIR_main(image_list, model, seed, creative_restoration, steps, prompt, negative_prompt, cfg,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/utils.py", line 187, in instantIR_main
+    torch.cuda.reset_max_memory_allocated(gpu)
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 494, in reset_max_memory_allocated
+    return reset_peak_memory_stats(device=device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 374, in reset_peak_memory_stats
+    return torch._C._cuda_resetPeakMemoryStats(device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+
+[2025-05-02 16:47:06.410] Prompt executed in 82.22 seconds
+[2025-05-02 16:55:31.749] got prompt
+[2025-05-02 16:55:31.814] Start infer 1 images.
+[2025-05-02 16:55:31.816] The config attributes {'interpolation_type': 'linear', 'skip_prk_steps': True, 'use_karras_sigmas': False} were passed to LCMSingleStepScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
+[2025-05-02 16:55:31.823] /opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py:489: FutureWarning: torch.cuda.reset_max_memory_allocated now calls torch.cuda.reset_peak_memory_stats, which resets /all/ peak memory stats.
+  warnings.warn(
+[2025-05-02 16:55:31.826] !!! Exception during processing !!! module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+[2025-05-02 16:55:31.828] Traceback (most recent call last):
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 347, in execute
+    output_data, output_ui, has_subgraph = get_output_data(obj, input_data_all, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 222, in get_output_data
+    return_values = _map_node_over_list(obj, input_data_all, obj.FUNCTION, allow_interrupt=True, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 194, in _map_node_over_list
+    process_inputs(input_dict, i)
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 183, in process_inputs
+    results.append(getattr(obj, func)(**inputs))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/InstantIR_node.py", line 143, in main
+    ouput_img = instantIR_main(image_list, model, seed, creative_restoration, steps, prompt, negative_prompt, cfg,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/utils.py", line 187, in instantIR_main
+    torch.cuda.reset_max_memory_allocated(gpu)
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 494, in reset_max_memory_allocated
+    return reset_peak_memory_stats(device=device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 374, in reset_peak_memory_stats
+    return torch._C._cuda_resetPeakMemoryStats(device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+
+[2025-05-02 16:55:31.828] Prompt executed in 0.07 seconds
+[2025-05-02 16:55:40.504] got prompt
+[2025-05-02 16:55:40.529] Start infer 1 images.
+[2025-05-02 16:55:40.530] The config attributes {'interpolation_type': 'linear', 'skip_prk_steps': True, 'use_karras_sigmas': False} were passed to LCMSingleStepScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
+[2025-05-02 16:55:40.534] !!! Exception during processing !!! module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+[2025-05-02 16:55:40.535] Traceback (most recent call last):
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 347, in execute
+    output_data, output_ui, has_subgraph = get_output_data(obj, input_data_all, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 222, in get_output_data
+    return_values = _map_node_over_list(obj, input_data_all, obj.FUNCTION, allow_interrupt=True, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 194, in _map_node_over_list
+    process_inputs(input_dict, i)
+  File "/Users/akashpillai/AI/ComfyUI/execution.py", line 183, in process_inputs
+    results.append(getattr(obj, func)(**inputs))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/InstantIR_node.py", line 143, in main
+    ouput_img = instantIR_main(image_list, model, seed, creative_restoration, steps, prompt, negative_prompt, cfg,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akashpillai/AI/ComfyUI/custom_nodes/ComfyUI_InstantIR_Wrapper/utils.py", line 187, in instantIR_main
+    torch.cuda.reset_max_memory_allocated(gpu)
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 494, in reset_max_memory_allocated
+    return reset_peak_memory_stats(device=device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/torch/cuda/memory.py", line 374, in reset_peak_memory_stats
+    return torch._C._cuda_resetPeakMemoryStats(device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'torch._C' has no attribute '_cuda_resetPeakMemoryStats'
+
+[2025-05-02 16:55:40.536] Prompt executed in 0.03 seconds
+[2025-05-02 16:58:04.417] 
+Stopped server
